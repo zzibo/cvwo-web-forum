@@ -1,6 +1,6 @@
 # CVWO Assignment Sample Golang App
 
-This sample React app is provided to help you experiment and practice web development fundamentals.
+This sample Golang app is provided to help you experiment and practice web development fundamentals.
 It shows how certain functionality can be implemented.
 However, do note that this is **far from a model example**.
 After all, we want to see how you maximise your learning in web development
